@@ -107,3 +107,7 @@ Navibar 위치에, <img src="">를 이용해서 인스타 로고를 넣는다. �
     href="https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp"
     rel="stylesheet">
 
+# 본문 만들기
+# 피드 만들기
+# 스타일 지정하기
+<head></head>와 <body></body> 사이에 <style></style>을 넣어서 특정 형태를 class로 지정할 수 있다.
